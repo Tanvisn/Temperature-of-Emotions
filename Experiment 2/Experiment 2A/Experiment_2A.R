@@ -323,6 +323,8 @@ sd(iatdata_demo$age)
 min(iatdata_demo$age)
 max(iatdata_demo$age)
 
-table(iatdata_demo$gender)
+table(iatdata_demo$gender) 
+
+
 
 
