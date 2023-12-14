@@ -1,0 +1,52 @@
+pid,version,dimension,key1,key2,pstatus,trial,rt,attempt,correct,block,stimulus,keys,block_cat,congruency,age,country,firstlang,gender
+1667872,task-27ts,valence,NA,cold_right,complete,13,926,1,1,3,hot.png,cold_right,p,congruent,74,uk,english,Male
+1667937,task-w6i6,valence,NA,cold_left,complete,13,451.395,1,0,6,unhappy.png,cold_left,p,incongruent,21,United Kingdom,English,Male
+1667946,task-w6i6,valence,NA,cold_left,complete,13,1222.26,1,1,6,hot.png,cold_left,p,incongruent,29,united kingdom,english,Female
+1667956,task-w6i6,valence,NA,cold_left,complete,13,1176.26,1,1,6,cold.png,cold_left,p,incongruent,26,UK,English,Female
+1668080,task-w6i6,valence,NA,cold_left,complete,13,1300.56,1,1,3,unhappy.png,cold_left,p,congruent,45,England,English,Female
+1668085,task-w6i6,valence,NA,cold_left,complete,13,622.065,1,1,3,unhappy.png,cold_left,p,congruent,48,England,English,Male
+1668086,task-27ts,valence,NA,cold_right,complete,13,669,1,1,3,happy.png,cold_right,p,congruent,29,UK,Frencch,Female
+1668090,task-27ts,valence,NA,cold_right,complete,13,2097.815,1,1,3,unhappy.png,cold_right,p,congruent,43,uk,English,Female
+1668092,task-27ts,valence,NA,cold_right,complete,13,1150.555,1,1,3,unhappy.png,cold_right,p,congruent,26,United Kingdom ,English ,Male
+1668095,task-w6i6,valence,NA,cold_left,complete,13,1676.775,1,1,3,hot.png,cold_left,p,congruent,23,"England, United Kingdom",English,Female
+1668103,task-w6i6,valence,NA,cold_left,complete,13,705.425,1,1,6,cold.png,cold_left,p,incongruent,20,Scotland,English,Female
+1668107,task-27ts,valence,NA,cold_right,complete,13,752.81,1,1,6,unhappy.png,cold_right,p,incongruent,20,England,English,Female
+1668111,task-w6i6,valence,NA,cold_left,complete,13,478,1,0,6,unhappy.png,cold_left,p,incongruent,26,england,english,Female
+1668115,task-27ts,valence,NA,cold_right,complete,13,771.925,1,1,3,cold.png,cold_right,p,congruent,18,england,serbian,Male
+1668118,task-w6i6,valence,NA,cold_left,complete,13,447.06,1,1,6,happy.png,cold_left,p,incongruent,29,United Kingdom,English,Male
+1668119,task-27ts,valence,NA,cold_right,complete,13,1815.78,1,1,3,hot.png,cold_right,p,congruent,26,UK,English,Male
+1668122,task-27ts,valence,NA,cold_right,complete,13,675.445,1,0,6,unhappy.png,cold_right,p,incongruent,38,England,English,Female
+1668135,task-w6i6,valence,NA,cold_left,complete,13,650,1,0,3,happy.png,cold_left,p,congruent,20,England,English,Male
+1668144,task-w6i6,valence,NA,cold_left,complete,13,1194.145,1,1,6,unhappy.png,cold_left,p,incongruent,34,UK,English,Male
+1668148,task-w6i6,valence,NA,cold_left,complete,13,852,1,1,3,cold.png,cold_left,p,congruent,18,united kingdom,english,Male
+1668150,task-27ts,valence,NA,cold_right,complete,13,655.74,1,1,3,unhappy.png,cold_right,p,congruent,37,UK,English,Female
+1668172,task-27ts,valence,NA,cold_right,complete,13,782.55,1,1,3,hot.png,cold_right,p,congruent,23,United Kingdom,English,Female
+1668175,task-27ts,valence,NA,cold_right,complete,13,1932.725,1,1,3,unhappy.png,cold_right,p,congruent,60,UK,English,Female
+1668178,task-w6i6,valence,NA,cold_left,complete,13,516.725,1,1,6,hot.png,cold_left,p,incongruent,21,UK,English,Female
+1668182,task-27ts,valence,NA,cold_right,complete,13,1507.785,1,1,6,unhappy.png,cold_right,p,incongruent,66,UK,English,Female
+1668185,task-27ts,valence,NA,cold_right,complete,13,933.4400001,1,1,6,cold.png,cold_right,p,incongruent,45,UK,English,Female
+1668191,task-27ts,valence,NA,cold_right,complete,13,694.9099998,1,1,3,unhappy.png,cold_right,p,congruent,23,UK,English,Male
+1668194,task-27ts,valence,NA,cold_right,complete,13,3411.055,1,1,6,happy.png,cold_right,p,incongruent,21,England,English,Female
+1668433,task-27ts,valence,NA,cold_right,complete,13,645.255,1,1,3,hot.png,cold_right,p,congruent,28,UK,English,Female
+1668436,task-w6i6,valence,NA,cold_left,complete,13,805.405,1,1,3,unhappy.png,cold_left,p,congruent,51,UK,English,Male
+1668438,task-27ts,valence,NA,cold_right,complete,13,798.65,1,1,6,cold.png,cold_right,p,incongruent,21,England,British English,Male
+1668439,task-27ts,valence,NA,cold_right,complete,13,1156.505,1,1,6,happy.png,cold_right,p,incongruent,27,ENGLAND,ENGLISH,Female
+1668554,task-27ts,valence,NA,cold_right,complete,13,801.635,1,1,3,unhappy.png,cold_right,p,congruent,20,UK,english,Female
+1668556,task-w6i6,valence,NA,cold_left,complete,13,3990.25,1,1,3,unhappy.png,cold_left,p,congruent,19,United Kingdom,English,Female
+1668557,task-w6i6,valence,NA,cold_left,complete,13,1163.54,1,1,3,happy.png,cold_left,p,congruent,20,Scotland,English,Male
+1668558,task-w6i6,valence,NA,cold_left,complete,13,444.81,1,1,3,happy.png,cold_left,p,congruent,20,United Kingdom,English,Male
+1668560,task-27ts,valence,NA,cold_right,complete,13,1637.275,1,1,3,happy.png,cold_right,p,congruent,24,UK,English,Female
+1668562,task-w6i6,valence,NA,cold_left,complete,13,843.2949999,1,1,6,cold.png,cold_left,p,incongruent,38,uk,english,Female
+1668564,task-27ts,valence,NA,cold_right,complete,13,1118.01,1,1,3,unhappy.png,cold_right,p,congruent,35,Wales,English,Male
+1668566,task-27ts,valence,NA,cold_right,complete,13,607.345,1,0,6,happy.png,cold_right,p,incongruent,28,UK,english,Female
+1668567,task-27ts,valence,NA,cold_right,complete,13,425,1,1,3,unhappy.png,cold_right,p,congruent,33,United Kingdom,English,Male
+1668572,task-w6i6,valence,NA,cold_left,complete,13,954.7,1,1,6,happy.png,cold_left,p,incongruent,43,UK,English,Male
+1668576,task-w6i6,valence,NA,cold_left,complete,13,611.44,1,1,3,unhappy.png,cold_left,p,congruent,18,Scotland,English,Female
+1668578,task-27ts,valence,NA,cold_right,complete,13,970.49,1,1,6,cold.png,cold_right,p,incongruent,24,England,English,Female
+1668579,task-w6i6,valence,NA,cold_left,complete,13,1221.755,1,1,6,cold.png,cold_left,p,incongruent,37,England,English,Female
+1668587,task-w6i6,valence,NA,cold_left,complete,13,746.765,1,1,6,hot.png,cold_left,p,incongruent,51,England,English,Female
+1668593,task-w6i6,valence,NA,cold_left,complete,13,723.7750001,1,1,6,happy.png,cold_left,p,incongruent,26,England,English,Female
+1668595,task-w6i6,valence,NA,cold_left,complete,13,674.1600002,1,1,3,cold.png,cold_left,p,congruent,27,United Kingdom,English,Male
+1668597,task-w6i6,valence,NA,cold_left,complete,13,1054,1,1,3,unhappy.png,cold_left,p,congruent,30,England,English,Female
+1669702,task-w6i6,valence,NA,cold_left,complete,13,729.365,1,1,3,happy.png,cold_left,p,congruent,26,England,English,Female
+1669708,task-w6i6,valence,NA,cold_left,complete,13,1255.075,1,1,6,cold.png,cold_left,p,incongruent,40,United Kingdom,English,Female
