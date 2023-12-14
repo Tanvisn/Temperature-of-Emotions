@@ -1,0 +1,51 @@
+pid,version,dimension,key1,key2,pstatus,trial,rt,attempt,correct,block,stimulus,keys,block_cat,congruency,age,country,firstlang,gender
+1667632,task-9nfw,arousal,cold_right,NA,complete,13,380,1,1,6,passive.png,cold_right,p,incongruent,19,England,English,Female
+1667928,task-llso,arousal,cold_left,NA,complete,13,2164.465,1,1,6,cold.png,cold_left,p,incongruent,24,UK,ENGLISH,Female
+1667938,task-9nfw,arousal,cold_right,NA,complete,13,1075.16,1,1,6,hot.png,cold_right,p,incongruent,60,Canada,English,Female
+1667959,task-llso,arousal,cold_left,NA,complete,13,508.55,1,1,3,hot.png,cold_left,p,congruent,21,England,English,Male
+1667975,task-llso,arousal,cold_left,NA,complete,13,1108,1,0,3,passive.png,cold_left,p,congruent,20,England,English,Female
+1667984,task-9nfw,arousal,cold_right,NA,complete,13,952,1,1,6,cold.png,cold_right,p,incongruent,51,England,English,Female
+1667993,task-llso,arousal,cold_left,NA,complete,13,723,1,1,3,cold.png,cold_left,p,congruent,27,UK,English,Female
+1668083,task-llso,arousal,cold_left,NA,complete,13,572.6949999,1,1,3,passive.png,cold_left,p,congruent,29,England,English,Female
+1668109,task-llso,arousal,cold_left,NA,complete,13,570,1,1,6,passive.png,cold_left,p,incongruent,55,UK,English,Female
+1668113,task-9nfw,arousal,cold_right,NA,complete,13,1535.61,1,1,6,hot.png,cold_right,p,incongruent,34,England,English,Female
+1668114,task-llso,arousal,cold_left,NA,complete,13,1131,1,1,3,active.png,cold_left,p,congruent,48,england uk,english,Female
+1668123,task-llso,arousal,cold_left,NA,complete,13,604.3550001,1,1,3,hot.png,cold_left,p,congruent,36,england,english,Male
+1668126,task-9nfw,arousal,cold_right,NA,complete,13,679.16,1,1,3,passive.png,cold_right,p,congruent,21,uk,english,Female
+1668128,task-llso,arousal,cold_left,NA,complete,13,792.585,1,0,3,cold.png,cold_left,p,congruent,20,UK,English,Female
+1668131,task-llso,arousal,cold_left,NA,complete,13,797.935,1,1,3,active.png,cold_left,p,congruent,58,England,French,Female
+1668153,task-llso,arousal,cold_left,NA,complete,13,2186.765,1,1,6,passive.png,cold_left,p,incongruent,40,United Kingdom,English,Female
+1668154,task-9nfw,arousal,cold_right,NA,complete,13,1416.505,1,1,3,hot.png,cold_right,p,congruent,54,uk ,english ,Female
+1668156,task-9nfw,arousal,cold_right,NA,complete,13,651,1,1,6,active.png,cold_right,p,incongruent,48,UK,English,Female
+1668162,task-9nfw,arousal,cold_right,NA,complete,13,595.0999999,1,1,3,active.png,cold_right,p,congruent,25,UK,English,Female
+1668166,task-9nfw,arousal,cold_right,NA,complete,13,712.6,1,0,3,hot.png,cold_right,p,congruent,40,united kingdom,english,Female
+1668168,task-9nfw,arousal,cold_right,NA,complete,13,1485.66,1,0,6,active.png,cold_right,p,incongruent,53,UK,English,Female
+1668170,task-llso,arousal,cold_left,NA,complete,13,714.26,1,1,3,active.png,cold_left,p,congruent,60,Ireland,English,Male
+1668171,task-9nfw,arousal,cold_right,NA,complete,13,1678.915,1,1,6,passive.png,cold_right,p,incongruent,26,UK,English,Female
+1668174,task-9nfw,arousal,cold_right,NA,complete,13,569.945,1,1,6,passive.png,cold_right,p,incongruent,21,UK,English,Female
+1668176,task-llso,arousal,cold_left,NA,complete,13,507,1,1,3,cold.png,cold_left,p,congruent,31,England,English,Female
+1668179,task-9nfw,arousal,cold_right,NA,complete,13,940.26,1,1,6,hot.png,cold_right,p,incongruent,35,UK,English,Male
+1668180,task-llso,arousal,cold_left,NA,complete,13,3111.61,1,1,6,hot.png,cold_left,p,incongruent,51,UK,Englsh,Female
+1668183,task-llso,arousal,cold_left,NA,complete,13,644.8250001,1,1,3,active.png,cold_left,p,congruent,22,england,english,Male
+1668187,task-9nfw,arousal,cold_right,NA,complete,13,746.9649999,1,0,6,active.png,cold_right,p,incongruent,23,"United Kingdo,",English,Female
+1668431,task-llso,arousal,cold_left,NA,complete,13,1090.855,1,1,3,passive.png,cold_left,p,congruent,22,Enlgand,English,Female
+1668437,task-llso,arousal,cold_left,NA,complete,13,584,1,1,3,active.png,cold_left,p,congruent,20,England,English,Female
+1668555,task-llso,arousal,cold_left,NA,complete,13,721.6,1,1,3,passive.png,cold_left,p,congruent,41,England,English,Male
+1668559,task-9nfw,arousal,cold_right,NA,complete,13,1476.705,1,1,6,passive.png,cold_right,p,incongruent,20,UK,English,Male
+1668563,task-llso,arousal,cold_left,NA,complete,13,695.99,1,0,6,passive.png,cold_left,p,incongruent,22,UK,English,Female
+1668570,task-9nfw,arousal,cold_right,NA,complete,13,891.035,1,1,6,active.png,cold_right,p,incongruent,19,England,English,Male
+1668575,task-9nfw,arousal,cold_right,NA,complete,13,1421.42,1,1,6,passive.png,cold_right,p,incongruent,26,United Kingdom - England,English,Female
+1668580,task-9nfw,arousal,cold_right,NA,complete,13,838.445,1,1,3,cold.png,cold_right,p,congruent,35,uk,english,Female
+1668608,task-llso,arousal,cold_left,NA,complete,13,580.245,1,1,3,hot.png,cold_left,p,congruent,35,UK,English,Male
+1668610,task-9nfw,arousal,cold_right,NA,complete,13,455.4100001,1,1,3,passive.png,cold_right,p,congruent,23,U.K,English,Male
+1668614,task-llso,arousal,cold_left,NA,complete,13,656.005,1,1,3,cold.png,cold_left,p,congruent,22,England,English,Female
+1668619,task-9nfw,arousal,cold_right,NA,complete,13,1458,1,1,3,passive.png,cold_right,p,congruent,31,England,English,Female
+1668630,task-9nfw,arousal,cold_right,NA,complete,13,763.5300001,1,1,3,cold.png,cold_right,p,congruent,44,Scotland,english,Female
+1668681,task-9nfw,arousal,cold_right,NA,complete,13,6611.845,1,1,3,passive.png,cold_right,p,congruent,73,United kingdom,English,Male
+1668959,task-9nfw,arousal,cold_right,NA,complete,13,952.35,1,1,3,hot.png,cold_right,p,congruent,53,UK,English,Female
+1668991,task-llso,arousal,cold_left,NA,complete,13,634.985,1,1,6,cold.png,cold_left,p,incongruent,59,N Ireland,English,Male
+1668992,task-9nfw,arousal,cold_right,NA,complete,13,824.6950001,1,1,6,hot.png,cold_right,p,incongruent,40,UK,English,Female
+1668993,task-llso,arousal,cold_left,NA,complete,13,516.34,1,1,3,hot.png,cold_left,p,congruent,36,United Kingdom,English,Male
+1669698,task-9nfw,arousal,cold_right,NA,complete,13,534.55,1,1,3,cold.png,cold_right,p,congruent,26,England,English,Male
+1669699,task-9nfw,arousal,cold_right,NA,complete,13,1616.26,1,1,6,cold.png,cold_right,p,incongruent,25,UK,English,Male
+1669700,task-9nfw,arousal,cold_right,NA,complete,13,562.2,1,1,3,passive.png,cold_right,p,congruent,30,United Kingdom,English,Male
